@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="emlakcepte-gateway" />
+        <module name="emlakcepte-payment-service" />
+        <module name="emlakcepte-notification-service" />
+        <module name="emlakcepte-service" />
+        <module name="emlakcepte-eureka-server" />
+        <module name="emlakcepte-banner-service" />
+        <module name="emlakcepte-realtystatus" />
+        <module name="emlakcepte-logger" />
+        <module name="emlakcepte-logger-file" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="emlakcepte-banner-service" target="17" />
+      <module name="emlakcepte-eureka-server" target="17" />
+      <module name="emlakcepte-gateway" target="17" />
+      <module name="emlakcepte-logger" target="17" />
+      <module name="emlakcepte-logger-file" target="17" />
+      <module name="emlakcepte-notification-service" target="17" />
+      <module name="emlakcepte-payment-service" target="17" />
+      <module name="emlakcepte-realtystatus" target="17" />
+      <module name="emlakcepte-service" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="emlakcepte-banner-service" options="-parameters" />
+      <module name="emlakcepte-eureka-server" options="-parameters" />
+      <module name="emlakcepte-gateway" options="-parameters" />
+      <module name="emlakcepte-logger" options="-parameters" />
+      <module name="emlakcepte-logger-file" options="-parameters" />
+      <module name="emlakcepte-notification-service" options="-parameters" />
+      <module name="emlakcepte-payment-service" options="-parameters" />
+      <module name="emlakcepte-realtystatus" options="-parameters" />
+      <module name="emlakcepte-service" options="-parameters" />
+    </option>
+  </component>
+</project>

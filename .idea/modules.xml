@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-banner-service/emlakcepte-banner-service.iml" filepath="$PROJECT_DIR$/emlakcepte-banner-service/emlakcepte-banner-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-eurake-server/emlakcepte-eureka-server.iml" filepath="$PROJECT_DIR$/emlakcepte-eurake-server/emlakcepte-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-gateway/emlakcepte-gateway.iml" filepath="$PROJECT_DIR$/emlakcepte-gateway/emlakcepte-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-logger/emlakcepte-logger.iml" filepath="$PROJECT_DIR$/emlakcepte-logger/emlakcepte-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-logger-file/emlakcepte-logger-file.iml" filepath="$PROJECT_DIR$/emlakcepte-logger-file/emlakcepte-logger-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-notification-service/emlakcepte-notification-service.iml" filepath="$PROJECT_DIR$/emlakcepte-notification-service/emlakcepte-notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-payment-service/emlakcepte-payment-service.iml" filepath="$PROJECT_DIR$/emlakcepte-payment-service/emlakcepte-payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-realtystatus/emlakcepte-realtystatus.iml" filepath="$PROJECT_DIR$/emlakcepte-realtystatus/emlakcepte-realtystatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emlakcepte-service/emlakcepte-service.iml" filepath="$PROJECT_DIR$/emlakcepte-service/emlakcepte-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week-5-mengenmetehan.iml" filepath="$PROJECT_DIR$/.idea/week-5-mengenmetehan.iml" />
+    </modules>
+  </component>
+</project>
